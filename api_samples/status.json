@@ -1,0 +1,15 @@
+{
+    "connection": true,
+    "servicelevel": "AVAILABLE_SERVICE",
+    "internet": "HIGH",
+    "speed": 0,
+    "gpsStatus": "VALID",
+    "tzn": "Tz319",
+    "series": "403",
+    "latitude": 48.78554,
+    "longitude": 9.184547,
+    "serverTime": 1574414419064,
+    "wagonClass": "SECOND",
+    "navigationChange": "2019-11-22-03-36-03",
+    "trainType": "ICE"
+}

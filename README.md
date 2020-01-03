@@ -19,6 +19,11 @@ Wird der Strip nicht per Art-Net angesprochen, läuft eine Default-Animation. F�
 #### speed.sh
 Dieses Script zeigt die aktuelle Geschwindigkeit des ICEs auf der LED-Strip an. Beim ICE 4 wurde die Api etwa alle 5 Sekunden aktualisiert, jedoch wohl die Geschwindigkeit lediglich anhand der GPS-Position ermittelt und nicht aus den Fahrzeugdaten ausgelesen, denn ohne GPS-Signal war die Geschwindigkeit=0.
 
+## API Samples
+Unter samples sind ein paar Beispiel für API-Responses. Die URLs sind:
+* https://iceportal.de/api1/rs/status
+* https://iceportal.de/api1/rs/tripInfo/trip
+* https://iceportal.de/api1/rs/configs
 
 ## Weitere Ideen
 * Anzeige der Unterwegsbahnhöfe

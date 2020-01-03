@@ -1,0 +1,509 @@
+{
+    "trip": {
+        "tripDate": "2019-11-22",
+        "trainType": "ICE",
+        "vzn": "513",
+        "actualPosition": 463325,
+        "distanceFromLastStop": 119,
+        "totalDistance": 659149,
+        "stopInfo": {
+            "scheduledNext": "8000170_00",
+            "actualNext": "8000170_00",
+            "actualLast": "8000096_00",
+            "actualLastStarted": "8000170",
+            "finalStationName": "München Hbf",
+            "finalStationEvaNr": "8000261_00"
+        },
+        "stops": [
+            {
+                "station": {
+                    "evaNr": "8000263_00",
+                    "name": "Münster (Westf) Hbf",
+                    "geocoordinates": {
+                        "latitude": 51.956566,
+                        "longitude": 7.635715
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": null,
+                    "actualArrivalTime": null,
+                    "showActualArrivalTime": null,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": 1574398500000,
+                    "actualDepartureTime": 1574398500000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": ""
+                },
+                "track": {
+                    "scheduled": "3",
+                    "actual": "3"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 0,
+                    "distanceFromStart": 0
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000080_00",
+                    "name": "Dortmund Hbf",
+                    "geocoordinates": {
+                        "latitude": 51.517896,
+                        "longitude": 7.45929
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574400780000,
+                    "actualArrivalTime": 1574400900000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+2",
+                    "scheduledDepartureTime": 1574401020000,
+                    "actualDepartureTime": 1574401080000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+1"
+                },
+                "track": {
+                    "scheduled": "16",
+                    "actual": "16"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 50282,
+                    "distanceFromStart": 50282
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000041_00",
+                    "name": "Bochum Hbf",
+                    "geocoordinates": {
+                        "latitude": 51.478609,
+                        "longitude": 7.223275
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574401620000,
+                    "actualArrivalTime": 1574401680000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+1",
+                    "scheduledDepartureTime": 1574401680000,
+                    "actualDepartureTime": 1574401800000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+2"
+                },
+                "track": {
+                    "scheduled": "3",
+                    "actual": "3"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 16916,
+                    "distanceFromStart": 67198
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000098_00",
+                    "name": "Essen Hbf",
+                    "geocoordinates": {
+                        "latitude": 51.451355,
+                        "longitude": 7.014793
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574402280000,
+                    "actualArrivalTime": 1574402460000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+3",
+                    "scheduledDepartureTime": 1574402400000,
+                    "actualDepartureTime": 1574402580000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+3"
+                },
+                "track": {
+                    "scheduled": "2",
+                    "actual": "2"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 14761,
+                    "distanceFromStart": 81959
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000086_00",
+                    "name": "Duisburg Hbf",
+                    "geocoordinates": {
+                        "latitude": 51.429785,
+                        "longitude": 6.775903
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574403060000,
+                    "actualArrivalTime": 1574403120000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+1",
+                    "scheduledDepartureTime": 1574403180000,
+                    "actualDepartureTime": 1574403300000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+2"
+                },
+                "track": {
+                    "scheduled": "4",
+                    "actual": "4"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 16735,
+                    "distanceFromStart": 98694
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000085_00",
+                    "name": "Düsseldorf Hbf",
+                    "geocoordinates": {
+                        "latitude": 51.219962,
+                        "longitude": 6.794319
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574403900000,
+                    "actualArrivalTime": 1574403900000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": 1574404020000,
+                    "actualDepartureTime": 1574404020000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": ""
+                },
+                "track": {
+                    "scheduled": "15",
+                    "actual": "15"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 23373,
+                    "distanceFromStart": 122067
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000207_00",
+                    "name": "Köln Hbf",
+                    "geocoordinates": {
+                        "latitude": 50.94303,
+                        "longitude": 6.958729
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574405340000,
+                    "actualArrivalTime": 1574405340000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": 1574405700000,
+                    "actualDepartureTime": 1574405700000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": ""
+                },
+                "track": {
+                    "scheduled": "6",
+                    "actual": "6"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 32875,
+                    "distanceFromStart": 154942
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8005556_00",
+                    "name": "Siegburg/Bonn",
+                    "geocoordinates": {
+                        "latitude": 50.793915,
+                        "longitude": 7.203026
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574406480000,
+                    "actualArrivalTime": 1574406600000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+2",
+                    "scheduledDepartureTime": 1574406540000,
+                    "actualDepartureTime": 1574406720000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+3"
+                },
+                "track": {
+                    "scheduled": "6",
+                    "actual": "6"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 23857,
+                    "distanceFromStart": 178799
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8070003_00",
+                    "name": "Frankfurt (M) Flughafen Fernbf",
+                    "geocoordinates": {
+                        "latitude": 50.053167,
+                        "longitude": 8.570185
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574408940000,
+                    "actualArrivalTime": 1574408940000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": 1574409120000,
+                    "actualDepartureTime": 1574409120000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": ""
+                },
+                "track": {
+                    "scheduled": "Fern 5",
+                    "actual": "Fern 5"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 127174,
+                    "distanceFromStart": 305973
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000244_00",
+                    "name": "Mannheim Hbf",
+                    "geocoordinates": {
+                        "latitude": 49.479354,
+                        "longitude": 8.468921
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574410980000,
+                    "actualArrivalTime": 1574411280000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+5",
+                    "scheduledDepartureTime": 1574411460000,
+                    "actualDepartureTime": 1574411520000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+1"
+                },
+                "track": {
+                    "scheduled": "5",
+                    "actual": "5"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "passed",
+                    "distance": 64236,
+                    "distanceFromStart": 370209
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000096_00",
+                    "name": "Stuttgart Hbf",
+                    "geocoordinates": {
+                        "latitude": 48.784084,
+                        "longitude": 9.181635
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574413680000,
+                    "actualArrivalTime": 1574413860000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+3",
+                    "scheduledDepartureTime": 1574414040000,
+                    "actualDepartureTime": 1574414220000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+3"
+                },
+                "track": {
+                    "scheduled": "15",
+                    "actual": "16"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": true,
+                    "positionStatus": "departed",
+                    "distance": 93116,
+                    "distanceFromStart": 463325
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000170_00",
+                    "name": "Ulm Hbf",
+                    "geocoordinates": {
+                        "latitude": 48.399437,
+                        "longitude": 9.982227
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574417400000,
+                    "actualArrivalTime": 1574417520000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "+2",
+                    "scheduledDepartureTime": 1574417520000,
+                    "actualDepartureTime": 1574417700000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+3"
+                },
+                "track": {
+                    "scheduled": "2",
+                    "actual": "2"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": false,
+                    "positionStatus": "future",
+                    "distance": 72795,
+                    "distanceFromStart": 536120
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000013_00",
+                    "name": "Augsburg Hbf",
+                    "geocoordinates": {
+                        "latitude": 48.365441,
+                        "longitude": 10.88557
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574419980000,
+                    "actualArrivalTime": 1574419980000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": 1574420100000,
+                    "actualDepartureTime": 1574420220000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": "+2"
+                },
+                "track": {
+                    "scheduled": "4",
+                    "actual": "4"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": false,
+                    "positionStatus": "future",
+                    "distance": 66838,
+                    "distanceFromStart": 602958
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8004158_00",
+                    "name": "München-Pasing",
+                    "geocoordinates": {
+                        "latitude": 48.149852,
+                        "longitude": 11.461872
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574421480000,
+                    "actualArrivalTime": 1574421480000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": 1574421540000,
+                    "actualDepartureTime": 1574421540000,
+                    "showActualDepartureTime": true,
+                    "departureDelay": ""
+                },
+                "track": {
+                    "scheduled": "9",
+                    "actual": "9"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": false,
+                    "positionStatus": "future",
+                    "distance": 48952,
+                    "distanceFromStart": 651910
+                },
+                "delayReasons": null
+            },
+            {
+                "station": {
+                    "evaNr": "8000261_00",
+                    "name": "München Hbf",
+                    "geocoordinates": {
+                        "latitude": 48.140232,
+                        "longitude": 11.558335
+                    }
+                },
+                "timetable": {
+                    "scheduledArrivalTime": 1574422020000,
+                    "actualArrivalTime": 1574422020000,
+                    "showActualArrivalTime": true,
+                    "arrivalDelay": "",
+                    "scheduledDepartureTime": null,
+                    "actualDepartureTime": null,
+                    "showActualDepartureTime": null,
+                    "departureDelay": ""
+                },
+                "track": {
+                    "scheduled": "14",
+                    "actual": "14"
+                },
+                "info": {
+                    "status": 0,
+                    "passed": false,
+                    "positionStatus": "future",
+                    "distance": 7239,
+                    "distanceFromStart": 659149
+                },
+                "delayReasons": null
+            }
+        ]
+    },
+    "connection": null,
+    "selectedRoute": {
+        "conflictInfo": {
+            "status": "NO_CONFLICT",
+            "text": null
+        },
+        "mobility": null
+    },
+    "active": null
+}

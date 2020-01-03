@@ -1,0 +1,16 @@
+{
+    "hotspotLink": "http://login.wifionice.de",
+    "train": {
+        "tzn": "Tz319",
+        "serie": "403"
+    },
+    "map": {
+        "poiCarousel": {"active": true},
+        "poiRadiusDefault": 100000,
+        "url": "/karte"
+    },
+    "page": {"travelPoiTimeout": 120000},
+    "dialog": {},
+    "tripInfo": {"trainrouteErrorText": "Aus technischen Gründen können leider keine Reiseinformationen angezeigt werden."},
+    "travelPlanner": {"hint": "<p>Liebe Gäste, wir arbeiten an weiteren Verbesserungen für Sie!<br/>Bald können Sie die Reise-Information individuell anpassen und Ihre persönlichen Anschlussverbindungen speichern.<\/p>"}
+}
