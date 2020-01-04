@@ -14,10 +14,15 @@ Wird der Strip nicht per Art-Net angesprochen, läuft eine Default-Animation. F�
 ### Software
 * jq
 * ola (muss auf Universe 0 erfolgreich ausgeben), ggf. über die GUI unter http://localhost:9090
+* watch
+* bc
 * Netzwerkverbindung zum ICE-WLAN mit erfolgter Authentisierung
 * Netzwerkverbindung zum Art-Net-Node
+
 #### speed.sh
 Dieses Script zeigt die aktuelle Geschwindigkeit des ICEs auf der LED-Strip an. Beim ICE 4 wurde die Api etwa alle 5 Sekunden aktualisiert, jedoch wohl die Geschwindigkeit lediglich anhand der GPS-Position ermittelt und nicht aus den Fahrzeugdaten ausgelesen, denn ohne GPS-Signal war die Geschwindigkeit=0.
+
+Am Besten starten mit watch -n5 sh speed.sh
 
 ## API Samples
 Unter samples sind ein paar Beispiel für API-Responses. Die URLs sind:
